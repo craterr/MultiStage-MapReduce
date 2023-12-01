@@ -132,4 +132,5 @@ hdfs dfs -put dataset_sample.txt /cust_prod
 ```bash
 hdfs dfs -cat /task2/output/part-00000
 ```
+The output should be the expected sample output provided.[`expected_output_dataset_sample.txt`](expected_output_dataset_sample.txt)
 
